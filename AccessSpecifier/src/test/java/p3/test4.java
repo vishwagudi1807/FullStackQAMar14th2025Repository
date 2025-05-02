@@ -7,6 +7,8 @@ class Even
         {
             System.out.println(" the given number is even :"+ a);
         }
+        else
+            System.out.println(" no is odd");
        
     }
 }
