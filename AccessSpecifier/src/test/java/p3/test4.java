@@ -7,8 +7,7 @@ class Even
         {
             System.out.println(" the given number is even :"+ a);
         }
-        else
-            System.out.println(" its not an even");
+       
     }
 }
 public class test4 {
